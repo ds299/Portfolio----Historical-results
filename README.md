@@ -1,10 +1,10 @@
-# 📈  Portfolio Backtest – 2024
+#  Portfolio Backtest – 2024
 
 This repository contains the historical backtest results of my live trading portfolio, which includes a diversified set of **options buying and selling strategies** deployed in the Indian F&O market.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 - **Time Period:** 01-Jan-2024 to 11-Apr-2025 
 - **Capital Deployed:** ₹3,00,000  
@@ -15,7 +15,7 @@ This repository contains the historical backtest results of my live trading port
 
 ---
 
-## 📊 Key Performance Metrics (Post Slippage, Charges & Taxes)
+## Key Performance Metrics (Post Slippage, Charges & Taxes)
 
 | Metric                     | Value         |
 |---------------------------|---------------|
@@ -30,7 +30,7 @@ This repository contains the historical backtest results of my live trading port
 
 ---
 
-## 🚀 About the Portfolio
+## About the Portfolio
 
 This portfolio is built to maintain a **balanced exposure** across different strategies and instruments. The goal is to achieve **consistent profitability** with tight risk control, even in changing market regimes.
 
@@ -38,7 +38,7 @@ Strategies are built using **Python** and backtested with slippages and transact
 
 ---
 
-## 🤝 Connect
+## Connect
 
 If you’d like to know more about the strategy framework or wish to discuss collaboration opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/28a-harsh-malhotra/) .
 
