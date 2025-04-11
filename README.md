@@ -7,7 +7,6 @@ This repository contains the historical backtest results of my live trading port
 ## Overview
 
 - **Time Period:** 01-Jan-2024 to 11-Apr-2025 
-- **Capital Deployed:** ₹3,00,000  
 - **Strategy Types:** Option Buying & Option Selling  
 - **Instruments Used:** Nifty, BankNifty, FinNifty, and other index options  
 - **Execution Frequency:** Intraday and Positional strategies  
